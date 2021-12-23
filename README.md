@@ -1,4 +1,4 @@
-# Code for the "Detecting Wildfires with Computer Vision" project
+# Code for the "Detecting Wildfires with Computer Vision" Project
 
 Organized for AI Socratic Circles with Andre Erler.
 
